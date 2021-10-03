@@ -7,7 +7,7 @@ You might know me for the guy with the cool Zoom backgrouds, the guy that mentio
 
 Kind-of-sociable introvert. Aspiring musician and singer with a long way to go. Avid Dungeons & Dragons player and newborn Dungeon Master. Luna's father, the beautiful black mutt on my profile picture and best pupperino. Finishing my BS in Archaeology (yeah, I know).
 
-### 🚀 Skills
+### 🚀 skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=77B162)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
