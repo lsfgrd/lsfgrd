@@ -5,7 +5,7 @@ I'm a self-taught programmer that has been working professionally with web techn
 
 You might know me as the guy with the cool Zoom backgrouds, the guy that mentions he uses Linux anytime he can, the dad jokes guy or the guy with the musical instrument addiction.
 
-Kind-of-sociable introvert. Aspiring musician and singer with a long way to go. Avid Dungeons & Dragons player and newborn Dungeon Master. Luna's father, the beautiful black mutt on my profile picture and the best pupperino. Finishing my BSc in Archaeology (yeah, I know).
+Kind-of-sociable introvert. Aspiring musician and singer with a long way to go. Avid Dungeons & Dragons player and newborn Dungeon Master. Finishing my BSc in Archaeology (yeah, I know). In constant state of always waiting for the next Pokémon and The Legend of Zelda games.
 
 ### 🚀 skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
