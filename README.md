@@ -1,5 +1,5 @@
 ### 👨🏻‍💻 id -u -n
-Lauro Figueiredo, 23 years old web generalist from Brazil.
+Lauro Figueiredo, 24 years old web generalist from Brazil.
 
 I'm a self-taught programmer that has been working professionally with web technologies for 4 years. One of many that learned HTML & CSS from Neopets and Blogger back in the 00's.
 
