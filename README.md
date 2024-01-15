@@ -1,9 +1,9 @@
 ### 👨🏻‍💻 id -u -n
 Lauro Figueiredo, 25 years old web generalist from Brazil.
 
-I'm a self-taught programmer that has been working professionally with web technologies for 4 years. One of many that learned HTML & CSS from Neopets and Blogger back in the 00's.
+I'm a self-taught programmer that has been working professionally with web technologies for 6 years. One of many that learned HTML & CSS from Neopets and Blogger back in the 00's.
 
-Kind-of-sociable introvert. Aspiring musician and singer with a long way to go. Avid Dungeons & Dragons player and newborn Dungeon Master. Finishing my BSc in Archaeology (yeah, I know). In constant state of always waiting for the next Pokémon and The Legend of Zelda games.
+Kind-of-sociable introvert. Aspiring musician and singer with a long way to go. Avid Dungeons & Dragons player and newborn Dungeon Master. Archaeologist (yes, I know). In constant state of always waiting for the next Pokémon and The Legend of Zelda games.
 
 ### 🚀 skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
